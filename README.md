@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dhanyasriambica
-- 👀 I’m interested in web developing
-- 🌱 I’m currently learning ...html
+- 👋 Hi, I’m
+- 👀 I’m interested in
+- 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: 
